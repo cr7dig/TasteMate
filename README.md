@@ -10,6 +10,8 @@
 
 Quickly input ingredients using voice recognition — perfect for hands-free cooking.
 
+<img width="707" height="345" alt="image" src="https://github.com/user-attachments/assets/d4f896cc-73e4-4880-9151-a0f24ba538b7" />
+
 ### ⌨️ Manual Text Entry
 
 Prefer typing? Enter one or more ingredients manually to search for matching recipes.
@@ -18,9 +20,14 @@ Prefer typing? Enter one or more ingredients manually to search for matching rec
 
 Upload an image of your ingredients, and TasteMate will automatically detect them using AI-powered image recognition.
 
+<img width="702" height="747" alt="image" src="https://github.com/user-attachments/assets/ed359d1f-3cdc-43ae-abb2-82157a12abbd" />
+
 ### 🌐 Web Recipe Search (AllRecipes.com Scraper)
 
 Use the built-in scraper to fetch the **top 5 recipes** from **AllRecipes.com** based on your selected ingredients. Redirect instantly to full recipe details.
+
+<img width="693" height="746" alt="image" src="https://github.com/user-attachments/assets/e80d2b9f-32ba-42b5-af1d-c2e3393d277e" />
+<img width="683" height="370" alt="image" src="https://github.com/user-attachments/assets/1eaee07f-7f5e-4b4a-90d1-36884a076c56" />
 
 ### 🧩 Smart Filters
 
@@ -30,6 +37,8 @@ Refine your search using:
 * **Course** – Breakfast, Lunch, Dinner, etc.
 * **Dietary Preferences** – Vegetarian, Non-Vegetarian
 * **Prep Time** – e.g., Under 30 minutes
+
+<img width="697" height="327" alt="image" src="https://github.com/user-attachments/assets/8b18e6f8-7955-4f16-986d-7dc143b4051a" />
 
 ---
 
